@@ -1,0 +1,111 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: 'sacramento', cursive;
+  color: #d35656;
+
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #d35656;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #ef4b4b;
+}
+
+hr {
+  color: #e16363;
+  border-style: dotted;
+}
+
+.top-container {
+  background-color: #f7e8e8;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+  margin: auto;
+}
+
+.bottom-container {
+  margin: auto;
+}
+
+.top-floral {
+  width: 15%;
+  position: absolute;
+  right: 150px;
+  top: 200px;
+}
+
+.bottom-floral {
+  width: 15%;
+  position: absolute;
+  left: 150px;
+  bottom: 1600px;
+  top: 100px;
+}
+
+.Pro {
+  text-decoration: underline;
+}
+
+.grammer {
+  font-weight: normal;
+  line-height: 2;
+  margin-bottom: 0
+}
+
+.ewepic2 {
+  width: 18%;
+  position: absolute;
+  left: 470px;
+  top: 500px;
+
+}
+
+.wreath {
+  width: 40%;
+}
+
+.green {
+  width: 8%;
+}
+
+.plant {
+  width: 150px;
+}
+
+.footer-link {
+  color: #e16363;
+}
+
+.btn {
+  color: #e16363;
+}
+
+.skill-row {
+  margin: 0 auto 100px auto;
+  width: 50%;
+  text-align: left;
+  line-height: 2;
+}
+
+.paintbrush {
+  width: 20%;
+}
+
+.coffee {
+  width: 20%;
+}
